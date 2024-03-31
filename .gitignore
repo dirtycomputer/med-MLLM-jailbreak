@@ -1,5 +1,6 @@
 *.pth
 *.pyc
 *.pyo
+*.log
 
 **/__pycache__/
